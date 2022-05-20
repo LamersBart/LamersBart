@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">
-  < 👋 Hello world! />
+  < 👋 Hallo wereld! />
   <br/>
   <br/>
   <h3 align="center">I'm Bart, a 26 years old ICT student from The Netherlands 🇳🇱</h3>
