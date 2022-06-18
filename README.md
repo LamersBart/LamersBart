@@ -111,8 +111,8 @@
 
 <div align="center">
   
-  ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamersBart&count_private=true&show_icons=true&theme=nord)
+  ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api/?username=LamersBart&count_private=true&show_icons=true&theme=nord)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LamersBart&layout=compact&theme=nord)
+  ![art's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LamersBart&langs_count=8&layout=compact&theme=nord)
   
 </div>
