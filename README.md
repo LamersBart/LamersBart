@@ -9,8 +9,8 @@
 
 ## 👨‍💻 About Me
 
-<p>💻 I'm studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my second semester.</p>
-<p>📖 I’m currently practicing ASP.Net Core, C# and MSSQL.</p>
+<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my second semester.</p>
+<p>📖 Currently practicing ASP.Net Core, C# and MSSQL.</p>
 <!-- <p>✉️ How to reach me: email@email.com</p> -->
 <br/>
 <br/>
