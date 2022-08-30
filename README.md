@@ -1,17 +1,13 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center">
-  < 👋 Hallo wereld! />
-  <br/>
-  <br/>
+
+<h3 align="center" style="font-size: 40px;">
+  < 👋 Hallo wereld! />  
   <h3 align="center">I'm Bart, a 26 years old ICT student from The Netherlands 🇳🇱</h3>
-</h1>
-<br/>
+</h3>
 
-## 👨‍💻 About Me
-
-<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my second semester.</p>
-<p>📖 Currently practicing ASP.Net Core, C# and MSSQL.</p>
-<!-- <p>✉️ How to reach me: email@email.com</p> -->
+## 🙋🏼‍♂️ About Me
+<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>third</b> semester.</p>
+<p>📖 Currently practicing <b>ASP.Net Core</b>, <b>C#</b> and <b>MSSQL</b>.</p>
+<p>✉️ How to reach me: <a href="mailto:mail@bartlamers.nl">mail@bartlamers.nl</a></p>
 <br/>
 <br/>
 
@@ -29,8 +25,6 @@
       <th>HTML</th>
       <th>CSS</th>
       <th>Bootstrap</th>  
-      <th>Javascript</th>  
-      <th>MySQL</th>        
     </tr>
   </head>  
   <body>
@@ -56,16 +50,34 @@
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 48px; width: 48px"/></a>
       </td>
-      <td align="center">
+            <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height: 48px; width: 48px"/></a>
       </td>
+    </tr> 
+  </body>
+</table>
+<table>
+  <head>
+    <tr>
+      <th>Javascript</th>  
+      <th>MySQL</th>   
+      <th>MSSQL</th>
+    <tr/>
+  </head>
+  <body>
+    <tr>
       <td align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 48px; width: 48px"/></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 48px; width: 48px"/>        </a>
       </td>
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 48px; width: 48px"/></a>
       </td>
-    </tr> 
+      <td align="center">
+         <a href="#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="height: 48px; width: 48px" />
+         </a>
+      </td>
+    </tr>
   </body>
 </table>
 </div>
