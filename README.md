@@ -5,8 +5,8 @@
 </h3>
 
 ## 🙋🏼‍♂️ About Me
-<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>third</b> semester.</p>
-<p>📖 Currently practicing <b>ASP.Net Core</b>, <b>C#</b> and <b>MSSQL</b>.</p>
+<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>Fourth</b> semester.</p>
+<p>📖 Currently practicing <b>ASP.Net Core</b>, <b>C#</b>, <b>ReactJS</b> and <b>MSSQL</b>.</p>
 <p>✉️ How to reach me: <a href="mailto:mail@bartlamers.nl">mail@bartlamers.nl</a></p>
 <br/>
 <br/>
