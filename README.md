@@ -1,12 +1,11 @@
-
 <h3 align="center" style="font-size: 40px;">
   < 👋 Hallo wereld! />  
-  <h3 align="center">I'm Bart, a 26 years old ICT student from The Netherlands 🇳🇱</h3>
+  <h3 align="center">I'm Bart, a 27 years old ICT student from The Netherlands 🇳🇱</h3>
 </h3>
 
 ## 🙋🏼‍♂️ About Me
-<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>Fourth</b> semester.</p>
-<p>📖 Currently practicing <b>ASP.Net Core</b>, <b>C#</b>, <b>ReactJS</b> and <b>MSSQL</b>.</p>
+<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>fifth</b> semester.</p>
+<p>📖 Currently practicing <b>Laravel PHP</b> and <b>VUEjs</b>.</p>
 <p>✉️ How to reach me: <a href="mailto:mail@bartlamers.nl">mail@bartlamers.nl</a></p>
 <br/>
 <br/>
@@ -21,6 +20,8 @@
       <th>C++</th>
       <th>Swift</th>      
       <th>Python</th>
+      <th>PHP</th>
+      <th>Laravel</th> 
       <th>.NET</th>     
       <th>HTML</th>
       <th>CSS</th>
@@ -41,6 +42,12 @@
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 48px; width: 48px"/></a>
       </td>
+            <td align="center">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="height: 48px; width: 48px"/></a>
+      </td>
+            <td align="center">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="height: 48px; width: 48px"/></a>
+      </td>
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" style="height: 48px; width: 48px"/></a>
       </td>      
@@ -50,7 +57,7 @@
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 48px; width: 48px"/></a>
       </td>
-            <td align="center">
+      <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height: 48px; width: 48px"/></a>
       </td>
     </tr> 
@@ -59,6 +66,8 @@
 <table>
   <head>
     <tr>
+      <th>VUEjs</th>
+      <th>REACT</th>
       <th>Javascript</th>  
       <th>MySQL</th>   
       <th>MSSQL</th>
@@ -67,7 +76,13 @@
   <body>
     <tr>
       <td align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 48px; width: 48px"/>        </a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height: 48px; width: 48px"/></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 48px; width: 48px"/></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 48px; width: 48px"/></a>
       </td>
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 48px; width: 48px"/></a>
@@ -90,6 +105,8 @@
   <head>
     <tr>
       <th>JetBrains Rider</th>
+      <th>JetBrains PhpStorm</th>
+      <th>JetBrains WebStorm</th>
       <th>VS Code</th>
       <th>Git</th>      
       <th>Docker</th>
@@ -100,6 +117,12 @@
     <tr>
       <td align="center">
         <a href="#"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" style="height: 48px; width: 48px"/></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" style="height: 48px; width: 48px"/></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" style="height: 48px; width: 48px"/></a>
       </td>
       <td align="center">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 48px; width: 48px"/></a>
