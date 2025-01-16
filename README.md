@@ -4,8 +4,8 @@
 </h3>
 
 ## 🙋🏼‍♂️ About Me
-<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>sixth</b> semester.</p>
-<p>📖 Currently practicing <b>SwiftUI</b>.</p>
+<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>seventh</b> semester.</p>
+<p>📖 Currently practicing <b>Kuberneter, Microservices, Messaging</b>.</p>
 <p>✉️ How to reach me: <a href="mailto:mail@bartlamers.nl">mail@bartlamers.nl</a></p>
 <br/>
 <br/>
