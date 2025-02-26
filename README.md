@@ -1,6 +1,6 @@
 <h3 align="center" style="font-size: 40px;">
   < 👋 Hallo wereld! />  
-  <h3 align="center">I'm Bart, a 28 years old ICT student from The Netherlands 🇳🇱</h3>
+  <h3 align="center">I'm Bart, a 29 years old ICT student from The Netherlands 🇳🇱</h3>
 </h3>
 
 ## 🙋🏼‍♂️ About Me
