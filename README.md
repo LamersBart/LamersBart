@@ -1,14 +1,7 @@
 <h3 align="center" style="font-size: 40px;">
   < 👋 Hallo wereld! />  
-  <h3 align="center">I'm Bart, a 29 years old ICT student from The Netherlands 🇳🇱</h3>
+  <h3 align="center">I'm Bart, a 29 years old software engineer from The Netherlands 🇳🇱</h3>
 </h3>
-
-## 🙋🏼‍♂️ About Me
-<p>💻 Studying ICT & Software at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a> and I'm in my <b>eight</b> (last) semester.</p>
-<p>📖 Currently doing my <b>graduation project</b> @<a href="https://www.brendan-mackenzie.com">Brendan & Mackenzie.</a></p>
-<p>✉️ How to reach me: <a href="mailto:mail@bartlamers.nl">mail@bartlamers.nl</a></p>
-<br/>
-<br/>
 
 ## 🌐 Languages
 
